@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/iPassword/static/css/main.6a365786.css",
+    "main.js": "/iPassword/static/js/main.1bbef564.js",
+    "index.html": "/iPassword/index.html",
+    "main.6a365786.css.map": "/iPassword/static/css/main.6a365786.css.map",
+    "main.1bbef564.js.map": "/iPassword/static/js/main.1bbef564.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a365786.css",
+    "static/js/main.1bbef564.js"
+  ]
+}
